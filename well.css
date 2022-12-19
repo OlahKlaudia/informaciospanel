@@ -1,0 +1,44 @@
+#clickPanel{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    text-align: center;
+}
+button{
+    width: 1080px;
+    height: 1920px;
+    background-color:#0093DD;
+
+}
+
+
+
+.welcome-contener{
+    width: 1080px;
+    height: 100%;
+    background-image: url("images/back2.jpg");
+    background-repeat: no-repeat;
+    margin-top: 5%;
+
+}
+.logo-image{
+    width:15%;
+    height: 10%;
+    margin-left: 30%;
+    margin-top: 5%;
+
+}
+.cont{
+    margin-top: 15%;
+    position: relative;
+}
+#welcome{
+    position: relative;
+    padding: 0;
+    width:50%;
+    margin-left: 13%;
+    font-size: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #000;
+    text-align: center;
+}

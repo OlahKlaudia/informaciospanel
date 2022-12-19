@@ -1,0 +1,276 @@
+[
+    {
+        "name":"Igor Fürstner",
+        "email":"Email: Ifurst@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-205",
+        "classroom":"Terem: 107",
+        "day":"Konzultáció időpont: Hétfő 11:15-12:00" 
+    },
+    {
+        "name":"Zlatko Chole",
+        "email":"Email: chole@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-204",
+        "classroom":"Terem: 12",
+        "day":"Konzultáció időpont: Hétfő 13:05-14:00, Csütörtök 9:45-10:30" 
+    },
+    {
+        "name":"Dr. Sanja Maravic Cisar",
+        "email":"Email: sanja@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-217",
+        "classroom":"Terem: 16",
+        "day":"Konzultáció időpont: Hétfő 13:00 - 14:00" 
+    },
+    {
+        "name":"Dr.László Gogolák",
+        "email":"Email: gogolak@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-259",
+        "classroom":"Terem: 309",
+        "day":"Konzultáció időpont: Hétfő 13:00 - 14:00 Kedd 15:00 - 16:00 Szerda 12:00 - 13:00" 
+    },
+    {
+        "name":"Dr.Imre Némedi",
+        "email":"Email: nimre@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-247",
+        "classroom":"Terem: 5",
+        "day":"Konzultáció időpont: Kedd 10:30 - 11:30" 
+    },
+    {
+        "name":"Dr.Róbert Pintér",
+        "email":"Email: pinter.robert@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-231",
+        "classroom":"Terem: 113",
+        "day":"Konzultáció időpont: Csütörtök 13:10 - 14:00, Péntek 13:10 - 14:00" 
+    },
+    {
+        "name":" Dr.Szilveszter Pletl",
+        "email":" Email: pszilvi@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: 11",
+        "day":"Konzultáció időpont: Hétfő 12:00 - 13:00" 
+    },
+    {
+        "name":"Dr. Tibor Szakáll",
+        "email":"Email: tibi@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-246",
+        "classroom":"Terem: 10",
+        "day":"Konzultáció időpont: Hétfő 13:05 - 13:45" 
+    },
+    {
+        "name":"Dr. Lívia Szedmina",
+        "email":"Email: slivia@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-233",
+        "classroom":"Terem: 109",
+        "day":"Konzultáció időpont: Hétfő 10:30 - 11:00, Kedd 10:30 - 11:30, Csütörtök 11:30 - 12:30" 
+    },
+    {
+        "name":"Dr.Piroska Stanic Molcer",
+        "email":"Email: piroska@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-203",
+        "classroom":"Terem: 101",
+        "day":"Konzultáció időpont: Szerda 15:35 - 16:20" 
+    },
+    {
+        "name":"Dr. Zoltán Pap",
+        "email":"Email: papzoli@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-232",
+        "classroom":"Terem: 112",
+        "day":"Konzultáció időpont: Hétfő 13:05 - 14:00, Kedd 13:05 - 14:00" 
+    },
+    {
+        "name":"Dr. Zoran Anišić",
+        "email":"Email: azoran@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-207",
+        "classroom":"Terem: 311",
+        "day":"Konzultáció időpont: Hétfő 11:30 - 14:00, Kedd 13:15 - 14:00" 
+    },
+    {
+        "name":"Dr. Fülöp Bazsó",
+        "email":"Email: bf@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-209",
+        "classroom":"Terem: 404",
+        "day":"Konzultáció időpont: Csütörtök 16:00 - 17:00" 
+    },
+    {
+        "name":"Dr. Verica Bulović",
+        "email":"Email: bverica@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-234",
+        "classroom":"Terem: 111",
+        "day":"Konzultáció időpont: Szerda 13:00 - 14:00" 
+    },
+    {
+        "name":"Dr. Miroslav Čavlin",
+        "email":"Email: miroslav.cavlin@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Dr. Tibor Cinkler",
+        "email":"Email: cinkler@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Dr. Olivera Dulić",
+        "email":"Email: olivera.dulic@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Dr. Árpád Huszák",
+        "email":"Email: huszak@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Dr. János Minich",
+        "email":"Email: het@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-209",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Dr. Béla Muhi",
+        "email":"Email: muhi.bela@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Dr. Attila Rétfalvi",
+        "email":"Email: ratosz@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-222",
+        "classroom":"Terem: 309",
+        "day":"Konzultáció időpont: Hétfő 12:00 - 13:00, Kedd 13:15 - 13:45, Csütörtök 13:15 - 14:00" 
+    },
+    {
+        "name":"Dr. Anita Szabó",
+        "email":"Email: saboanita@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-243",
+        "classroom":"Terem: 301",
+        "day":"Konzultáció időpont: Hétfő 07:30 - 08:00, Kedd 07:30 - 08:30" 
+    },
+    {
+        "name":"Dr. Róbert Sánta",
+        "email":"Email: santa@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-206",
+        "classroom":"Terem: 1ö8",
+        "day":"Konzultáció időpont: Hétfő 08:45 - 09:45, Péntek 08:45 - 09:45" 
+    },
+    {
+        "name":"Dr. József Sárosi",
+        "email":"Email: jozsef.sarosi@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Dr. Vilmos Simon",
+        "email":"Email: svilmos@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Dr. János Simon",
+        "email":"Email: simon@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-221",
+        "classroom":"Terem: 311",
+        "day":"Konzultáció időpont: Hétfő 13:00 - 14:00, Péntek 16:00 - 17:00" 
+    },
+    {
+        "name":"Dr. Gordana Stankov",
+        "email":"Email: gordana@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-232",
+        "classroom":"Terem: 112",
+        "day":"Konzultáció időpont: Hétfő 13:10 - 14:00" 
+    },
+    {
+        "name":"Mr. Emil Peić Tukuljac",
+        "email":"Email: peic.emil@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Árpád Pletikoszity",
+        "email":"Email: arpad@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-265",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Mr. Miklós Póth",
+        "email":"Email: pmiki@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-245",
+        "classroom":"Terem: 407",
+        "day":"Konzultáció időpont: Hétfő 14:45 - 15:45, Csütörtök 10:30 - 11:30" 
+    },
+    {
+        "name":"Karmelka Barić",
+        "email":"Email: kbaric@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-217",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Csaba Kukli",
+        "email":"Email: kuklicsaba@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-233",
+        "classroom":"Terem: 109",
+        "day":"Konzultáció időpont: Hétfő 13:00 - 13:45" 
+    },
+    {
+        "name":"Bojan Kuljić",
+        "email":"Email: bojan@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-256",
+        "classroom":"Terem: 303",
+        "day":"Konzultáció időpont: Hétfő 10:00 - 12:00, Kedd 10:00 - 12:00, Szerda 10:00 - 12:00, Csütörtök 10:00 - 12:00, Péntek 10:00 - 12:00"
+    },
+    {
+        "name":"Helena Manojlović",
+        "email":"Email: helena@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: 12",
+        "day":"Konzultáció időpont: Csütörtök 13:15 - 13:55, Péntek 11:30 - 12:00" 
+    },
+    {
+        "name":"Ognjen Grozdanović",
+        "email":"Email: ognjen@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-271",
+        "classroom":"Terem: 303",
+        "day":"Konzultáció időpont: Kedd 13:10 - 14:00, Csütörtök 13:10 - 14:00" 
+    },
+    {
+        "name":"Sándor Nágy",
+        "email":"Email: nagy.sandor@vts.su.ac.rs",
+        "telephone": "Telefon: 024/655-243",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Anna Vásárhelyi",
+        "email":"Email: vanna@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: 403",
+        "day":"Konzultáció időpont: Szerda 12:00 - 13:00" 
+    },
+    {
+        "name":"Monika Fajin",
+        "email":"Email: monika.fajin@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: ",
+        "day":"Konzultáció időpont: " 
+    },
+    {
+        "name":"Balaž Sabo",
+        "email":"Email: sbalazs@vts.su.ac.rs",
+        "telephone": "Telefon: ",
+        "classroom":"Terem: 403",
+        "day":"Konzultáció időpont: Csütörtök 12:00 - 13:30" 
+    }
+
+]

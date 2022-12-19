@@ -1,0 +1,61 @@
+html, body {
+padding: Opx;
+height: 100% !important;
+margin-top: 50px;
+font-family: Tahoma, sans-serif;
+font-size: 1em;
+}
+
+table {
+width:1080px ;
+border-collapse: collapse;
+
+}
+
+td, th{  
+border-collapse: collapse;
+padding: 10px;     
+text-align: left;
+vertical-align: top;
+}
+
+th{
+
+text-align: center;
+vertical-align: middle;
+}
+
+#btn_find, #btn_reset{
+background-color: #0093DD;
+color: #fff;
+border:none;
+padding:5px 10px;
+}
+
+.searchTab{
+width:30%;
+}
+
+#mapid{
+width:100%;
+height: 600px;
+background-color: #fff;
+}
+
+.resultTable{
+overflow-y: auto;
+vertical-align: top;
+height: 70vh;
+padding-bottom: 30px;
+padding-right: 5px;
+margin-top: 10px;
+}
+.cont{
+padding:5%;
+}
+.cont2{
+margin-top: 10px;
+}
+#search{
+    height: 40px;
+}

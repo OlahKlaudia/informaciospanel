@@ -1,0 +1,32 @@
+body{
+    padding: 0px;
+    left:0px;
+    position: relative; 
+    margin: 0px; 
+}
+.vts{
+    left:15%;
+    margin:0px;
+    padding: 0px;
+    position:relative;
+    width:70%;
+  
+  }
+
+.container{
+    padding: 10px;
+    background-color: #0093DD;
+}
+
+.contact2{
+    margin-top:60%;
+    width:110%;
+  
+}
+
+.contact{
+    margin-top:40%;
+    width:110%;
+  
+}
+
