@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>Információs panel</title>
-    <link rel="stylesheet" href="well.css">
+    <link rel="stylesheet" href="css/intro.css">
 </head>
 <body>
 <a href="welcome.php">

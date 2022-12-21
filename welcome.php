@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>Információs panel</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 
 </head>
 <body>
@@ -12,7 +12,7 @@
   <p id="welcome"> Welcome to VTS. If you haven't been here yet, we'll help you find your way around easily. <br></p>
   <p id="welcome">  Dobrodošli u VTS.  Ako još niste bili ovde, pomoći ćemo vam da se lakše snađete. </p>
   <?php 
-     header("refresh:2; url=hu.php"); 
+     header("refresh:2; url=map.php"); 
     ?> 
 </div>
 </div>

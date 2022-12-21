@@ -1,7 +1,7 @@
 body{
     padding: 0px;
     left:0px;
-    position: relative; 
+    position: absolute; 
     margin: 0px; 
 }
 .vts{
@@ -14,6 +14,8 @@ body{
   }
 
 .container{
+    height: 50%;
+    width: 1080px;
     padding: 10px;
     background-color: #0093DD;
 }

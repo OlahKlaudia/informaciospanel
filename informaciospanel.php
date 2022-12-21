@@ -2,28 +2,17 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>Map</title>
+ <title>Információs panel</title>
  <meta charset="utf-8" />
- <link rel="stylesheet" href="mymap.css" type="text/css" />
- <script src="TeacherAndTerem.js" defer></script> 
+ <link rel="stylesheet" href="css/mymap.css" type="text/css" />
+ <script src="files/TeacherAndTerem.js" defer></script> 
  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   <!-- INCLUDING JQUERY-->
-   <style>
-   
 
-    </style>
  </head>
  <?php
-    include "map.php";
+    include "header.php";
     ?>
  <body>
- <form id="frmPOI" method="POST" action=""> 
-          <br>
-          <div class="cont2">
-
-</form>			
-        
-
  <div class="search-cont">
     <div class="search-wrapper">
         <h3>Tanárok termének keresése:</h3>
