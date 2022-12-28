@@ -2,9 +2,10 @@
 const userCardTemplate = document.querySelector("[data-user-template]")
 const userCardContainer = document.querySelector("[data-user-cards-container]")
 const searchInput = document.querySelector("[data-search]")
-
+const searchButton = document.querySelector("[data-button]")
+const inputForm = document.getElementById('input-form')
 let users=[]
-
+/*
 searchInput.addEventListener("input",(e) =>{
 
   const value=e.target.value.toLowerCase()
@@ -15,7 +16,21 @@ searchInput.addEventListener("input",(e) =>{
 
   })
 
-})
+})*/
+document.getElementById('inputForm').onsubmit = (formSubmitEvent) => {
+  formSubmitEvent.preventDefault();
+
+  input.focus();
+
+
+  users.forEach(user =>{
+    const isVisible=
+    user.name.toLowerCase().includes(value) || user.email.toLowerCase().includes(value)
+    user.element.classList.toggle("hide", !isVisible)
+
+  })
+
+};
 
 fetch("files/teacherinfo.json")
 .then(res => res.json())

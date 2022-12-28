@@ -1,6 +1,6 @@
 html, body {
     padding: Opx;
-    height: 1920px;
+    max-height: 1020px;
     width:1080px;
     display:relative;
     margin-top: 50px;

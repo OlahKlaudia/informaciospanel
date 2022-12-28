@@ -4,20 +4,6 @@
     <link rel="stylesheet" href="css/header.css">
     </head>
 <body>
-<?php
-/*
-$lang = $_GET['lang'];
-
-if($lang == "en"){
-    include "languages/en.php";
-    }
-else if($lang == "hu"){
-    include "languages/hu.php";
-      }
-else if($lang == "srb"){
-     include "languages/srb.php";
-}*/
-?>
 
 <?php
 session_start();
@@ -39,8 +25,8 @@ session_start();
          <li class="nav-item" name="eref"><a class="nav-link" href="eref.php"><?php echo($header['eref']);?></a></li>
          <li class="nav-item" name="osztondij"><a class="nav-link" href="scholership.php"><?php echo($header['schoolership']);?></a></li>     
          
-         <a class="nav-link"  href="?lang=hu" target="_self "><img id="lg"  src="images/magyar.png" alt="lang"></a>
-         <a class="nav-link"  href="?lang=eng" target="_self "> <img id="lg" src="images/angol.png" alt="lang"></a>
+         <a class="nav-link"  href="?lang=hu" ><img id="lg"  src="images/magyar.png" alt="lang"></a>
+         <a class="nav-link"  href="?lang=eng"> <img id="lg" src="images/angol.png" alt="lang"></a>
          <a class="nav-link" href="?lang=srb"><img id="lg" src="images/szerb.png" alt="lang"></a> 
     </div>
 </div>

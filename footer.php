@@ -21,9 +21,9 @@
          <img class="contact2" src="images/phone.jpg" > 
     </div>
     <div class="col-sm-5">
-         <h4 class="footer-heading text-uppercase text-white">Ha kérdése van, írjon emailt</h4>
+         <h4 class="footer-heading text-uppercase text-white"><?php echo($header['email']);?></h4>
          <h2>office@vts.su.ac.rs</h2>   <br>   
-         <h4 class="footer-heading text-uppercase text-white"> Phone</h4>
+         <h4 class="footer-heading text-uppercase text-white"> <?php echo($header['phone']);?></h4>
          <h2>+38124/655-201</h2>
     </div>
   </div>
