@@ -4,16 +4,32 @@ html, body {
     width:1080px;
     display:relative;
     margin-top: 50px;
+   
     }
+  #inputForm{
+	margin-top: 10%;
+ 
+   margin-left:20px;
+   }
     .search-wrapper{
         display:flex;
         flex-direction:column;
         gap: .25rem;
   
     }
+    #sub{
+text-align:center;
+        background-color:#0093DD;
+        color: #fff;
+         padding:3% 10% 5% 5%;
+    }
+ #name{
+    font-size: 500%;
+   }
    #search{
         width:30%;
         height:60px;
+      
    }
 
     .user-cards{

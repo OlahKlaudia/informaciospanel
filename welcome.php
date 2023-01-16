@@ -8,7 +8,7 @@
     height: 100%;
     background-image: url("images/back2.jpg");
     background-repeat: no-repeat;
-    margin-top: 5%;
+    margin-top: 15px;
     cursor: none;
 }
     </style>
@@ -25,7 +25,7 @@
 </div>
 </div>
 <?php 
-     header("refresh:2; url=map.php"); 
+     header("refresh:5; url=map.php"); 
     ?> 
 </body>
 </html>

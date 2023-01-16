@@ -9,7 +9,7 @@
  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
  <link rel="shortcut icon" href="/assets/favicon.ico">
     <link rel="stylesheet" href="/assets/dcode.css">
-    <link rel="stylesheet" href="css/Keyboard.css">
+   
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -22,7 +22,7 @@
  <div class="search-cont">
     <div class="search-wrapper">
         <form id="inputForm">
-          <h1><?php echo($header['search']);?></h1>
+          <p id="name"><?php echo($header['search']);?></p>
           <input id="search" type="search" placeholder="Search" class="use-keyboard-input"  data-search>
           <input type="submit" value="<?php echo($header['submit']);?>" id="sub" style="  height: 50px; width: 50px;" data-button>
         </form>
@@ -40,7 +40,6 @@
         </template>
     </div> 
 </div>
-<script src="files/keyboard.js"></script>
 <?php
     include "footer.php";
 ?>

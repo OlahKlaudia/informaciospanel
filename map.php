@@ -9,20 +9,24 @@
  <link rel="stylesheet" href="css/mymap.css" type="text/css" /> 
  <link rel="shortcut icon" href="/assets/favicon.ico">
 
-    <link rel="stylesheet" href="css/Keyboard.css">
+   <!-- <link rel="stylesheet" href="css/Keyboard.css">-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
  <style>
    #input-form{
-	margin-top: 70px;
+	margin-top: 10%;
+   font-size: 150%;
    margin-left:20px;
    }
    #sub, button, #reset{
-      padding:5px;
+      padding:1% 5%;
       background-color:#0093DD;
       color: #fff;
    } 
    #input{
       height:20%;
+   }
+   #name{
+      font-size: 200%;
    }
    #room, #floor,#floor-canvas{
       margin-left:20px;  
@@ -41,7 +45,7 @@
       include "header.php";
    ?>
   <form id="input-form">
-  <h1><?php echo($header['mapSearch']);?></h1>
+  <p id="name"><?php echo($header['mapSearch']);?></p>
   <small><?php echo($header['forRoom']);?><br> <?php echo($header['forRef']);?> 'referada'. <br><?php echo($header['forPar']);?> 'parlament'.</small><br>
     <label for="input"></label>
     <input id="input" type="text" class="use-keyboard-input" style="  height: 50px; width: 300px;">
@@ -56,7 +60,7 @@
   <canvas id="floor-canvas"></canvas>
 
   <script src="files/js.js" type="module"></script>
-  <script src="files/keyboard.js"></script>
+
   <?php
     include "footer.php";
    ?>
