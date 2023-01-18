@@ -12,6 +12,7 @@ $header['forPar']='Za Parlament pišite: ';
 $header['reset']='Resetovati';
 $header['submit']='Prihvati';
 
+$header['roomId']='Broj učionice: ';
 $header['floor']='Sprat';
 $header['room']='Soba';
 

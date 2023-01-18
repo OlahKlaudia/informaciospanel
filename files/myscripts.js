@@ -17,13 +17,13 @@ searchInput.addEventListener("input",(e) =>{
   })
 
 })
-/*
+
 document.getElementById('inputForm').onsubmit = (formSubmitEvent) => {
   formSubmitEvent.preventDefault();
 
-  input.focus();
+  searchInput.focus();
 
-
+  const value=searchInput.value.toLowerCase()
   users.forEach(user =>{
     const isVisible=
     user.name.toLowerCase().includes(value) || user.email.toLowerCase().includes(value)
@@ -31,7 +31,7 @@ document.getElementById('inputForm').onsubmit = (formSubmitEvent) => {
 
   })
 
-};*/
+};
 
 fetch("files/teacherinfo.json")
 .then(res => res.json())

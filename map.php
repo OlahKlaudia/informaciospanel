@@ -47,7 +47,7 @@
   <form id="input-form">
   <p id="name"><?php echo($header['mapSearch']);?></p>
   <small><?php echo($header['forRoom']);?><br> <?php echo($header['forRef']);?> 'referada'. <br><?php echo($header['forPar']);?> 'parlament'.</small><br>
-    <label for="input"></label>
+    <label for="input"><?php echo($header['roomId']);?></label>
     <input id="input" type="text" class="use-keyboard-input" style="  height: 50px; width: 300px;">
 
     <input type="submit" value="<?php echo($header['submit']);?>" id="sub">
@@ -59,7 +59,7 @@
 
   <canvas id="floor-canvas"></canvas>
 
-  <script src="files/js.js" type="module"></script>
+  <script src="files/room.js" type="module"></script>
 
   <?php
     include "footer.php";

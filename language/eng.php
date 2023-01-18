@@ -13,6 +13,7 @@ $header['forPar']='For Parlament write ';
 $header['reset']='Reset';
 $header['submit']='Submit';
 
+$header['roomId']='Room number: ';
 $header['floor']='Floor';
 $header['room']='Room';
 

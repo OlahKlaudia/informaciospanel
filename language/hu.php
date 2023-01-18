@@ -13,6 +13,7 @@ $header['forPar']='Ha a parlamentet keresed írj: ';
 $header['reset']='Töröl';
 $header['submit']='Tovább';
 
+$header['roomId']='Terem száma: ';
 $header['floor']='Emelet';
 $header['room']='Terem';
 
